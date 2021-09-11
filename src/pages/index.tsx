@@ -8,7 +8,6 @@ export default function Home(props) {
     
   return (
     <h1>{JSON.stringify(props.episodes)}</h1>
-    
   )
 }
 
