@@ -18,5 +18,3 @@ function MyApp({ Component, pageProps }) {
 }
 
 export default MyApp
-
-// TODO 28:32
